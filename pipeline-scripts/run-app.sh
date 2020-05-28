@@ -20,4 +20,4 @@ trap finish EXIT
 ##php artisan optimize
 ##php artisan route:cache
 #php artisan bugsnag:notify
-echo "Flavian TEST!!!init" > /home/ubuntu/flv.tst
+echo "Flavian TEST!!!FINAL" > /home/ubuntu/flv.tst
